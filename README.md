@@ -1,16 +1,13 @@
-## Hi there 👋
+👋 Olá!
 
-<!--
-**pscreating/pscreating** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de *Análise e Desenvolvimento de Sistemas*, apaixonada por tecnologia e em constante aprendizado.
 
-Here are some ideas to get you started:
+🎯 Atualmente:
+- 📚 Estudando *Python 3*
+- 💻 Cursando *ADS*
+- ☕ Planejando me aprofundar em *Java* em breve
+  
+✨ Aqui você vai encontrar projetos e exercícios que acompanham minha evolução como desenvolvedora.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Como me encontrar:
+- LinkedIn: www.linkedin.com/in/paullascreat
