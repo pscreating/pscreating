@@ -1,4 +1,4 @@
-👋 Olá!
+Olá mundo!
 
 Sou estudante de *Análise e Desenvolvimento de Sistemas*, apaixonada por tecnologia e em constante aprendizado.
 
