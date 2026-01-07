@@ -5,7 +5,6 @@ Sou estudante de *Análise e Desenvolvimento de Sistemas*, apaixonada por tecnol
 🎯 Atualmente:
 - 📚 Estudando *Python 3*
 - 💻 Cursando *ADS*
-- ☕ Em breve, estarei desenvolvendo e compartilhando projetos em Java.
   
 ✨ Aqui você vai encontrar projetos e exercícios que acompanham minha evolução como desenvolvedora.
 
